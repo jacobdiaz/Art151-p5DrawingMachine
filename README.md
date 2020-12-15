@@ -1,6 +1,6 @@
 # Art151-p5DrawingMachine
 
-This project makes use of perlin random numbers to generate 2 random points and create a line between both points. The velocity in which the lines are drawn at are determined based on the X position of the cursor, and right and left arrows can be used to switch between four different colors. 
+Perlin noise is a random sequence generator producing a more natural, harmonic succession of numbers than that of the standard random() function.This project makes use of perlin random numbers to generate 2 random points and create a line between both points. The velocity in which the lines are drawn at are determined based on the X position of the cursor, and right and left arrows can be used to switch between four different colors. 
 
 Try it out! https://jacobdiaz.github.io/Art151-p5DrawingMachine/
 
